@@ -26,4 +26,4 @@
 
 <br>
 
-##### I love constantly challenging myself and always looking for evolution, <br> if you want to get in touch, send me an email! 😊
+#### I love constantly challenging myself and always looking for evolution, if you want to get in touch, send me an email! 😊
