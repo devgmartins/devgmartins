@@ -13,7 +13,7 @@
 </div><br/>
 
 <strong>Tenho 15 anos e sou completamente apaixonado por programação, e tudo</strong><br>
-<strong>que envolva tecnologia em geral, busco sempre evoluir e em breve estarei</strong>
+<strong>que envolva tecnologia em geral, busco sempre evoluir e em breve estarei</strong><br>
 <strong>me candidatando para vagas na área, como estagiário ou júnior.</strong>
 
 ## E-mail para entrar em contato:
