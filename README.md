@@ -21,8 +21,8 @@
 
 ## ⚙️ Github Analytics
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=devgmartins&show_icons=true&theme=dark" alt="Alison's Github stats">
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgmartins&layout=compact&theme=dark" alt="Alison's most langs">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=devgmartins&show_icons=true&theme=dark" alt="Alison's Github stats">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgmartins&layout=compact&theme=dark" alt="Alison's most langs">
 
 <br>
 
