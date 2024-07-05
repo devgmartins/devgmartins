@@ -12,8 +12,9 @@
 <img align="center" alt="es7" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Sou apaixonado por tecnologia e tudo que envolva programação<br>
-busco sempre me aprimorar e aprender coisas novas cada vez mais.
+<strong>Tenho 15 anos e sou completamente apaixonado por programação, e tudo</strong><br>
+<strong>que envolva tecnologia em geral, busco sempre evoluir e em breve estarei</strong>
+<strong>me candidatando para vagas na área, como estagiário ou júnior.</strong>
 
 ## E-mail para entrar em contato:
 
