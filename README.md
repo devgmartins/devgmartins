@@ -1,21 +1,29 @@
-# Olá! Eu sou o Alison! :)
+## Hi! I'm Alison Martins! 👋
 
-![Alison Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgmartins&show_icons=true&theme=radical)
+- 🔥 New developer focused on always evolving!
+- 📍 Currently I am just <b>studying</b>, but I intend to enter the market soon.
+- 🎯 Profile created just for the purpose of posting my progress!
+- 💬 Ask me questions about <b>HTML, CSS</b> or <b>JavaScript</b>!
+- 🧠 I love <b>challenges</b> and learning!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgmartins&hide_progress=true)
+<br>
 
-## Tecnologias que eu utilizo
+## 🛠️ Tech Stack
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="es7" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div><br/>
+<div style="display: inline-block">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
 
-<strong>Tenho 15 anos e sou completamente apaixonado por programação, e tudo</strong><br>
-<strong>que envolva tecnologia em geral, busco sempre evoluir e em breve estarei</strong><br>
-<strong>me candidatando para vagas na área, como estagiário ou júnior.</strong>
+<br>
 
-## E-mail para entrar em contato:
+## ⚙️ Github Analytics
 
-- gabrielalison341@gmail.com
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=devgmartins&show_icons=true&theme=dark" alt="Alison's Github stats">
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgmartins&layout=compact&theme=dark" alt="Alison's most langs">
+
+<br>
+
+##### I love constantly challenging myself and always looking for evolution, <br> if you want to get in touch, send me an email! 😊
