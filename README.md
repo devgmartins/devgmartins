@@ -1,9 +1,7 @@
 ## Hi! I'm Alison Martins! 👋
 
 - 🔥 New developer focused on always evolving!
-- 📍 Currently I am just <b>studying</b>, but I intend to enter the market soon.
-- 🎯 Profile created just for the purpose of posting my progress!
-- 💬 Ask me questions about <b>HTML, CSS</b> or <b>JavaScript</b>!
+- 🎯 Profile created just with the purpose of posting my progress!
 - 🧠 I love <b>challenges</b> and learning!
 
 <br>
