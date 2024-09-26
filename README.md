@@ -22,4 +22,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgmartins&layout=compact&theme=dark" alt="Alison's most langs">
 <br>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devgmartins/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devgmartins/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devgmartins/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
