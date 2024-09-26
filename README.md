@@ -1,6 +1,7 @@
 ## Oi! Eu sou o Alison G. Martins! 
 
 - Inciante na programação
+- Estudando Javascript (e suas libs e frameworks)
 - Subindo projetos todas as semanas (ou quase)
 - Focado em ser um programador fulltack!
 
